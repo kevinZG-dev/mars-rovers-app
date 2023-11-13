@@ -55,7 +55,7 @@ Voici un exemple d'utilisation de l'application :
 
 ![mars-rover-3](./images/mars-rover3.png)
 
-- Vous pouvez lancer la mission en cliquant sur le bouton envoyer. Les positions finales des rovers sont affichés sur un plateau avec leur orientation
+- Vous pouvez lancer la mission en cliquant sur le bouton envoyer. Les positions finales des rovers sont affichées sur un plateau avec leur orientation.
 
 ![mars-rover-4](./images/mars-rover4.png)
 
