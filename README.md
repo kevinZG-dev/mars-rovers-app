@@ -17,7 +17,7 @@ Mars Rovers est une application de simulation de rovers se déplaçant sur un pl
 
 ```bash
 git clone https://github.com/kevinZG-dev/mars-rovers-app.git
-cd mars-rover-app
+cd mars-rovers-app
 ```
 
 2. Dans un terminal, lancez le back-end.
